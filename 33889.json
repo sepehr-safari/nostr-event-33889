@@ -1,0 +1,114 @@
+[
+   "EVENT",
+   "03371344088215267",
+   {
+      "content":"",
+      "created_at":1694593413,
+      "id":"76f026f51412c3798eac59642a9c50d82a218e4c30f5e0cb904cf7887b9ac4ab",
+      "kind":33889,
+      "pubkey":"3e294d2fd339bb16a5403a86e3664947dd408c4d87a0066524f8a573ae53ca8e",
+      "sig":"f9f4154d3656636a8ebc99f82e42722c26a2dfcbe7c5b7246d9db9966115234df7a0af171b2643c3ff47bd14cf6d2197d48534f7c62daf294a9ae2bab1d470a9",
+      "tags":[
+         [
+            "d",
+            "My Favorite Movies"
+         ],
+         [
+            "description",
+            "Here is a list of my favorite movies in all genres"
+         ],
+         [
+            "c",
+            "Entertainment"
+         ],
+         [
+            "f",
+            "Image"
+         ],
+         [
+            "image",
+            "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0"
+         ],
+         [
+            "headers",
+            "Image:Content",
+            "Text:Title",
+            "Text:IMDB Rating",
+            "Text:Director",
+            "Link:Explore this director"
+         ],
+         [
+            "t",
+            "Movie"
+         ],
+         [
+            "t",
+            "Cinema"
+         ],
+         [
+            "pin",
+            "https://th.bing.com/th/id/R.3397dc14cd99481bff7560ff230b614b?rik=4LyuT9doR4OTvw&riu=http%3a%2f%2firishcareerman.files.wordpress.com%2f2013%2f09%2fgodfather.png&ehk=PCOwYecjuMYYD5U7Q8C3nL%2bgJxyTbNYJFekeLgMOri0%3d&risl=&pid=ImgRaw&r=0",
+            "The Godfather (1972)",
+            "9.2",
+            "Francis Ford Coppola",
+            ""
+         ],
+         [
+            "pin",
+            "https://th.bing.com/th/id/OIP.Ow4PTDRX18A0zmsUovUdjgHaKJ?pid=ImgDet&rs=1",
+            "The Shawshank Redemption (1994)",
+            "9.3",
+            "Frank Darabont",
+            ""
+         ],
+         [
+            "pin",
+            "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UX1000_.jpg",
+            "The Dark Knight (2008)",
+            "9.0",
+            "Christopher Nolan",
+            "https://pinstr.app/p/npub18c556t7n8xa3df2q82rwxejfglw5przds7sqvefylzjh8tjne28qld0we7/Christopher%20Nolan"
+         ],
+         [
+            "pin",
+            "https://image.nostr.build/8634d4a64e4c7554b1b3ee6038ee4353a251fe4444c98473e03bd1c3b53ae97d.png",
+            "Forrest Gump (1994)",
+            "8.8",
+            "Robert Zemeckis",
+            ""
+         ],
+         [
+            "pin",
+            "https://image.nostr.build/4c9fc25b2f0d8317f17f928a3ef74ef515a3487dba381934e9bdc36a88d46d57.png",
+            "The Matrix (1999)",
+            "",
+            "Wachowski",
+            ""
+         ],
+         [
+            "pin",
+            "https://image.nostr.build/25c4af7acb33c47bc6dc5c0b51027a4347a889eb0d21faedefd521b87cdb5151.png",
+            "Fight Club (1999)",
+            "8.8",
+            "David Fincher",
+            ""
+         ],
+         [
+            "pin",
+            "https://image.nostr.build/49e6a876b0a50b0adfe1e136462b364d3f09d632d9ba5403203fc88299591fb5.png",
+            "Goodfellas (1990)",
+            "8.7",
+            "Martin Scorsese",
+            ""
+         ],
+         [
+            "pin",
+            "https://image.nostr.build/eb8cbed1a6e04097b545bc9af7e3c61252132bce2945449bb4280b8f42129408.png",
+            "Se7en (1995)",
+            "8.6",
+            "David Fincher",
+            ""
+         ]
+      ]
+   }
+]
