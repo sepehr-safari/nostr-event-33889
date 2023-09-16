@@ -43,15 +43,21 @@ it's an array of header names followed by their data format, separated by `:`
 example: `["headers", "Image:Content", "Text:Title", "Text:IMDB Rating", "Text:Director", "Link:Explore this director"]`
 
 ### t
-a couple of related tags related to each board
+a couple of tags related to each board
 
 example: `Movie` `Cinema`
 
 ### pin
-consider each pin as an array of cells in each row of the sql table. the array is in order of headers.
+consider each pin as an array of cells in each row of a sql table. the array is in order of headers.
 
 ** so the first item in a pin array is related to the first item in headers array.
 
 also consider an empty string `""` inside the pin array as an empty cell in sql table. so we may have a pin like this:
 
- ["pin", "https://image.nostr.build/8634d4a64e4c7554b1b3ee6038ee4353a251fe4444c98473e03bd1c3b53ae97d.png", "Forrest Gump (1994)", "", "Robert Zemeckis", "", ""]
+["pin", "https://image.nostr.build/8634d4a64e4c7554b1b3ee6038ee4353a251fe4444c98473e03bd1c3b53ae97d.png", "Forrest Gump (1994)", "", "Robert Zemeckis", "", ""]
+
+
+## other stuff
+each board can be addressed by its coresponding `a` tag as defined in NIP-1 and also we can have a unique direct url to each board like this:
+
+`https://pinstr.app/p/<pubkey-of-the-author>/<d-tag-of-the-event>`
