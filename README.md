@@ -56,8 +56,11 @@ also consider an empty string `""` inside the pin array as an empty cell in sql 
 
 ["pin", "https://image.nostr.build/8634d4a64e4c7554b1b3ee6038ee4353a251fe4444c98473e03bd1c3b53ae97d.png", "Forrest Gump (1994)", "", "Robert Zemeckis", "", ""]
 
-
 ## other stuff
 each board can be addressed by its coresponding `a` tag as defined in NIP-1 and also we can have a unique direct url to each board like this:
 
 `https://pinstr.app/p/<pubkey-of-the-author>/<d-tag-of-the-event>`
+
+## Figures
+![image](https://github.com/sepehr-safari/nostr-event-33889/assets/25853688/8d8d694a-6246-4e45-92d8-081d7edfe1c4)
+
