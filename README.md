@@ -43,7 +43,7 @@ it's an array of header names followed by their data format, separated by `:`
 example: `["headers", "Image:Content", "Text:Title", "Text:IMDB Rating", "Text:Director", "Link:Explore this director"]`
 
 ### t
-a couple of tags related to each board
+a couple of tags related to each board (searchable)
 
 example: `Movie` `Cinema`
 
